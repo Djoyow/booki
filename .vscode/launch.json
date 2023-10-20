@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "$file:///home/teddy/Documents/Etudes/OpenClassRoom/P2Transformez%20une%20maquette%20en%20site%20web%20avec%20HTML%20&%20CSS/P2/BENGOTO_Teddy_2_code_042022/Intex.html"
+        }
+    ]
+}
